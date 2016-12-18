@@ -10,7 +10,8 @@
 
 > It is very easy to run on the command line with a pipe (or a redirect):
 > > cat testcases.txt | ./a.out dictionary.json
-The program should build the hash from the dictionary, then do the queries for the words listed in that testcases.txt file and quit.
+
+> The program should build the hash from the dictionary, then do the queries for the words listed in that testcases.txt file and quit.
 
 # Grading Criteria
 > Your assignment will be judged by the following criteria:
